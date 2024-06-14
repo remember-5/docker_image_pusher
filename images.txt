@@ -2,4 +2,5 @@
 #ghcr.io/gurucomputing/headscale-ui:latest
 #mysql
 #redis:6.2
-headscale/headscale:0.23.0-alpha12
+#headscale/headscale:0.23.0-alpha12
+nginx
