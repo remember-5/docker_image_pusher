@@ -1,2 +1,4 @@
-headscale/headscale:0.22.3
-ghcr.io/gurucomputing/headscale-ui:latest
+#headscale/headscale:0.22.3
+#ghcr.io/gurucomputing/headscale-ui:latest
+mysql
+redis:6.2
