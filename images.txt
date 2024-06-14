@@ -3,4 +3,5 @@
 #mysql
 #redis:6.2
 #headscale/headscale:0.23.0-alpha12
-nginx
+#nginx
+traefik:v3.0.2
